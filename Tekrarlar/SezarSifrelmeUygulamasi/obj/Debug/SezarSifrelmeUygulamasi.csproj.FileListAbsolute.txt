@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\bin\Debug\SezarSifrelmeUygulamasi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\bin\Debug\SezarSifrelmeUygulamasi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\bin\Debug\SezarSifrelmeUygulamasi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.SifrelemeUygulamasi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\SezarSifrelmeUygulamasi\obj\Debug\SezarSifrelmeUygulamasi.pdb

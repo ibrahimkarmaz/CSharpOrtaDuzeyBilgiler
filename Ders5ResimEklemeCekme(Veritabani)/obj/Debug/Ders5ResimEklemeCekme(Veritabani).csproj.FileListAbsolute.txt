@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\bin\Debug\Ders5ResimEklemeCekme(Veritabani).exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\bin\Debug\Ders5ResimEklemeCekme(Veritabani).exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\bin\Debug\Ders5ResimEklemeCekme(Veritabani).pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme(Veritabani).csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme_Veritabani_.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme_Veritabani_.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme(Veritabani).csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme(Veritabani).csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme(Veritabani).exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders5ResimEklemeCekme(Veritabani)\obj\Debug\Ders5ResimEklemeCekme(Veritabani).pdb

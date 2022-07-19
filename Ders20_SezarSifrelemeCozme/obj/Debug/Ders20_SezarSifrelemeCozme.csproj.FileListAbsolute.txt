@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\bin\Debug\Ders20_SezarSifrelemeCozme.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\bin\Debug\Ders20_SezarSifrelemeCozme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\bin\Debug\Ders20_SezarSifrelemeCozme.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders20_SezarSifrelemeCozme\obj\Debug\Ders20_SezarSifrelemeCozme.pdb

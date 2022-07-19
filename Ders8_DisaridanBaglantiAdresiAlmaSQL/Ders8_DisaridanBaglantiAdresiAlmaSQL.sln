@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders8_DisaridanBaglantiAdresiAlmaSQL", "Ders8_DisaridanBaglantiAdresiAlmaSQL.csproj", "{A868B8AB-F515-4487-A758-2501EBF15789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A868B8AB-F515-4487-A758-2501EBF15789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A868B8AB-F515-4487-A758-2501EBF15789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A868B8AB-F515-4487-A758-2501EBF15789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A868B8AB-F515-4487-A758-2501EBF15789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE250A2-F9E4-4207-AA7B-6052B0A2D176}
+	EndGlobalSection
+EndGlobal

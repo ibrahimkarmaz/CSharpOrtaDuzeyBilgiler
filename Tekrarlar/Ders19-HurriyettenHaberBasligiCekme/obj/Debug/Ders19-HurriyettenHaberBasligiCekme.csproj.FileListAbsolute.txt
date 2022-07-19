@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\bin\Debug\Ders19-HurriyettenHaberBasligiCekme.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\bin\Debug\Ders19-HurriyettenHaberBasligiCekme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\bin\Debug\Ders19-HurriyettenHaberBasligiCekme.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19-HurriyettenHaberBasligiCekme.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19_HurriyettenHaberBasligiCekme.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19_HurriyettenHaberBasligiCekme.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19-HurriyettenHaberBasligiCekme.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19-HurriyettenHaberBasligiCekme.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19-HurriyettenHaberBasligiCekme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\Ders19-HurriyettenHaberBasligiCekme\obj\Debug\Ders19-HurriyettenHaberBasligiCekme.pdb

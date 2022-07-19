@@ -1,0 +1,17 @@
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QRKODKullanimi.exe.config
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QRKODKullanimi.exe
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QRKODKullanimi.pdb
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QrCodeGenerator.dll
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QRCoder.dll
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\bin\Debug\QrCodeGenerator.xml
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.Form1.resources
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.Properties.Resources.resources
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.csproj.CopyComplete
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.exe
+C:\Users\ibrah\source\repos\QRKODKullanimi\QRKODKullanimi\obj\Debug\QRKODKullanimi.pdb

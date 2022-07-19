@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\bin\Debug\Ders26_ListYapisi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\bin\Debug\Ders26_ListYapisi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\bin\Debug\Ders26_ListYapisi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders26_ListYapisi\obj\Debug\Ders26_ListYapisi.pdb

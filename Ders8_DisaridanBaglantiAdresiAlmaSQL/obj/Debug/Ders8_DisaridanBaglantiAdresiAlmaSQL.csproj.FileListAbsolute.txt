@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\bin\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\bin\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\bin\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders8_DisaridanBaglantiAdresiAlmaSQL\obj\Debug\Ders8_DisaridanBaglantiAdresiAlmaSQL.pdb

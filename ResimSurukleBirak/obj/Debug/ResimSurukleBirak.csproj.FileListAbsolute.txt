@@ -1,0 +1,10 @@
+C:\Users\ibrah\source\repos\ResimSurukleBirak\bin\Debug\ResimSurukleBirak.exe.config
+C:\Users\ibrah\source\repos\ResimSurukleBirak\bin\Debug\ResimSurukleBirak.exe
+C:\Users\ibrah\source\repos\ResimSurukleBirak\bin\Debug\ResimSurukleBirak.pdb
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.Form1.resources
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.Properties.Resources.resources
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.exe
+C:\Users\ibrah\source\repos\ResimSurukleBirak\obj\Debug\ResimSurukleBirak.pdb

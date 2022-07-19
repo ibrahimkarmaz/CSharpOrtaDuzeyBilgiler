@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\bin\Debug\Ders7_Stuct_Kullanimi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\bin\Debug\Ders7_Stuct_Kullanimi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\bin\Debug\Ders7_Stuct_Kullanimi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\Ders7_Stuct_Kullanimi\obj\Debug\Ders7_Stuct_Kullanimi.pdb

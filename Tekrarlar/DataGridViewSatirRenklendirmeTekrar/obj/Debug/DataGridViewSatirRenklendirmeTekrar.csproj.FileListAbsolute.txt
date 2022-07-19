@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\bin\Debug\DataGridViewSatirRenklendirmeTekrar.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\bin\Debug\DataGridViewSatirRenklendirmeTekrar.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\bin\Debug\DataGridViewSatirRenklendirmeTekrar.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\DataGridViewSatirRenklendirmeTekrar\obj\Debug\DataGridViewSatirRenklendirmeTekrar.pdb

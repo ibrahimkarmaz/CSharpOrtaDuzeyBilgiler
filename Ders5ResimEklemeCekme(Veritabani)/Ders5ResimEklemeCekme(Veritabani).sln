@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders5ResimEklemeCekme(Veritabani)", "Ders5ResimEklemeCekme(Veritabani).csproj", "{C3557814-5B9C-4509-BB26-DA6623FDE269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3557814-5B9C-4509-BB26-DA6623FDE269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3557814-5B9C-4509-BB26-DA6623FDE269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3557814-5B9C-4509-BB26-DA6623FDE269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3557814-5B9C-4509-BB26-DA6623FDE269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90D59FD-65BA-4A72-B75D-22D6C1A3C4D7}
+	EndGlobalSection
+EndGlobal

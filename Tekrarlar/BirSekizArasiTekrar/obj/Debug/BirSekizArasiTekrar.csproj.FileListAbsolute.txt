@@ -1,0 +1,13 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\bin\Debug\BirSekizArasiTekrar.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\bin\Debug\BirSekizArasiTekrar.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\bin\Debug\BirSekizArasiTekrar.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.Liste.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.PhotoShow.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Tekrarlar\BirSekizArasiTekrar\obj\Debug\BirSekizArasiTekrar.CinsiyetChart.resources

@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\bin\Debug\EnumOdev.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\bin\Debug\EnumOdev.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\bin\Debug\EnumOdev.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ödevler\EnumOdev\obj\Debug\EnumOdev.pdb

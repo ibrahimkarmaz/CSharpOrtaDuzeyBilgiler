@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\bin\Debug\ChartNesnesiOrnek1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\bin\Debug\ChartNesnesiOrnek1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\bin\Debug\ChartNesnesiOrnek1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Örnekler\ChartNesnesiOrnek1\obj\Debug\ChartNesnesiOrnek1.pdb

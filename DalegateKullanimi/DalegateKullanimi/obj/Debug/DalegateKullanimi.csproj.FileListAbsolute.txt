@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\bin\Debug\DalegateKullanimi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\bin\Debug\DalegateKullanimi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\bin\Debug\DalegateKullanimi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\DalegateKullanimi\DalegateKullanimi\obj\Debug\DalegateKullanimi.pdb

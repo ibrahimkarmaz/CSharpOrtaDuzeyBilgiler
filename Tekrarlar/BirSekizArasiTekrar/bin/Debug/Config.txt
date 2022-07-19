@@ -1,0 +1,1 @@
+Server=DESKTOP-5DGSRBQ;database=Db_DersTekrar;Trusted_Connection=yes

@@ -1,0 +1,16 @@
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\x86\tesseract41.dll
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\x64\tesseract41.dll
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\OCRTesseractKullanimi_ResimOkuma2.exe.config
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\OCRTesseractKullanimi_ResimOkuma2.exe
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\OCRTesseractKullanimi_ResimOkuma2.pdb
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\bin\Debug\Tesseract.dll
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.Form1.resources
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.Properties.Resources.resources
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.csproj.CopyComplete
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.exe
+C:\Users\ibrah\source\repos\OCRTesseractKullanimi_ResimOkuma2\OCRTesseractKullanimi_ResimOkuma2\obj\Debug\OCRTesseractKullanimi_ResimOkuma2.pdb

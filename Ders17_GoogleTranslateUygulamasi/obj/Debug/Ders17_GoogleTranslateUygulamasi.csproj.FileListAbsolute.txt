@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\bin\Debug\Ders17_GoogleTranslateUygulamasi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\bin\Debug\Ders17_GoogleTranslateUygulamasi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\bin\Debug\Ders17_GoogleTranslateUygulamasi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders17_GoogleTranslateUygulamasi\obj\Debug\Ders17_GoogleTranslateUygulamasi.pdb

@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\bin\Debug\Ders4_GrafikVeriCekme.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\bin\Debug\Ders4_GrafikVeriCekme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\bin\Debug\Ders4_GrafikVeriCekme.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders4_GrafikVeriCekme\obj\Debug\Ders4_GrafikVeriCekme.csproj.CoreCompileInputs.cache

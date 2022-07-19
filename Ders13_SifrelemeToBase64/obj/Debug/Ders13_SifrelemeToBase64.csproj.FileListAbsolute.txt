@@ -1,0 +1,9 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\Ders13_SifrelemeToBase64.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\Ders13_SifrelemeToBase64.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders13_SifrelemeToBase64\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\bin\Debug\Ders18_DatagridViewSartliRenlendirme.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\bin\Debug\Ders18_DatagridViewSartliRenlendirme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\bin\Debug\Ders18_DatagridViewSartliRenlendirme.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.csprojAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\Ders18_DatagridViewSartliRenlendirme\obj\Debug\Ders18_DatagridViewSartliRenlendirme.pdb
