@@ -9,5 +9,5 @@ namespace DataAccessLayer.Abstract
 {
     public interface IProductDal:IRepository<Product>
     {
-    }
+    } 
 }
