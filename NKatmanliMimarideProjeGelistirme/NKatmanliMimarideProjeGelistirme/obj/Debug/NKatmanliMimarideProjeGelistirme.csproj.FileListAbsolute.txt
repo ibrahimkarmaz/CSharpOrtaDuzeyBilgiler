@@ -105,3 +105,9 @@ C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NK
 C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
 C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
 C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\FluentValidation.dll
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\FluentValidation.xml
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibrah\OneDrive\Belgeler\GitHub\C# OrtaSeviye\CSharpOrtaDuzeyBilgiler\NKatmanliMimarideProjeGelistirme\NKatmanliMimarideProjeGelistirme\bin\Debug\System.Threading.Tasks.Extensions.xml

@@ -8,8 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BusinessLayer;
+using BusinessLayer.ValidationRules;
 using EntitiyLayer.Entities;
-
+using FluentValidation.Results;
 
 namespace NKatmanliMimarideProjeGelistirme
 {
@@ -46,6 +47,25 @@ namespace NKatmanliMimarideProjeGelistirme
             gridControl1.DataSource = pm.GetAll();
             //2.ÜRÜN ADINA GÖRE LİSTELEME
             //gridControl1.DataSource = pm.GetByName("Bulaşık Makinesi");
+            Category c = new Category();
+            c.CategoryName = "M3123123123123333333333333333333333333333a";
+            CategoryValidator cvalidator = new CategoryValidator();
+            ValidationResult result = cvalidator.Validate(c);
+            if (result.IsValid)
+            {
+                cm.BLAdd(c);
+            }
+            else
+            {
+                string a = "";
+
+                foreach (var item in result.Errors)
+                {
+                    a += item.ToString() + "\n";
+                }
+                Console.WriteLine(a);
+                
+            }
 
         }
     }
