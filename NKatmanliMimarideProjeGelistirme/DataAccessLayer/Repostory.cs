@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using DataAccessLayer.Abstract;
@@ -24,6 +25,11 @@ namespace DataAccessLayer
             return C.SaveChanges();
         }
 
+        public T Find(Expression<Func<T, bool>> obj)
+        {
+            return _object.FirstOrDefault(obj);
+        }
+
         public T GetById(int id)
         {
             return _object.Find(id);
@@ -38,6 +44,11 @@ namespace DataAccessLayer
         public List<T> List()
         {
             return _object.ToList();
+        }
+
+        public List<T> List(Expression<Func<T, bool>> obj)
+        {
+            return _object.Where(obj).ToList();
         }
 
         public int Update(T p)
